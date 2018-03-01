@@ -10,4 +10,4 @@ Prerequisites to use Appium:
 Appium installation on Mac
 
 Download and install JDK. After installation, you will need to set your “JAVA_HOME” environment variable.
-(see [a link]( http://www.sajeconsultants.com/how-to-set-java_home-on-mac-os-x/ )
+(see [a http://www.sajeconsultants.com/how-to-set-java_home-on-mac-os-x/]
